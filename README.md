@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PawloZiom
-- 👀 I’m interested in Game Development, Minecraft Modding
-- 🌱 I’m currently learning C# and Java
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning some C#
 - 🎥 I'm a Streamer and YouTuber
 - ❤️ Love you guys!
 
